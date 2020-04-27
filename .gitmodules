@@ -1,0 +1,69 @@
+[submodule "nvim/pack/seepel/start/coc.nvim"]
+	path = nvim/pack/seepel/start/coc.nvim
+	url = https://github.com/neoclide/coc.nvim.git
+[submodule "nvim/pack/seepel/start/GoldenView.Vim"]
+	path = nvim/pack/seepel/start/GoldenView.Vim
+	url = https://github.com/vim-scripts/GoldenView.Vim.git
+[submodule "nvim/pack/seepel/start/editorconfig-vim"]
+	path = nvim/pack/seepel/start/editorconfig-vim
+	url = https://github.com/editorconfig/editorconfig-vim.git
+[submodule "nvim/pack/seepel/start/guile.vim"]
+	path = nvim/pack/seepel/start/guile.vim
+	url = https://gitlab.com/HiPhish/guile.vim.git
+[submodule "nvim/pack/seepel/start/matchit"]
+	path = nvim/pack/seepel/start/matchit
+	url = https://github.com/tmhedberg/matchit.git
+[submodule "nvim/pack/seepel/start/nerdtree"]
+	path = nvim/pack/seepel/start/nerdtree
+	url = https://github.com/preservim/nerdtree.git
+[submodule "nvim/pack/seepel/start/repl.nvim"]
+	path = nvim/pack/seepel/start/repl.nvim
+	url = https://gitlab.com/HiPhish/repl.nvim.git
+[submodule "nvim/pack/seepel/start/undotree"]
+	path = nvim/pack/seepel/start/undotree
+	url = https://github.com/mbbill/undotree.git
+[submodule "nvim/pack/seepel/start/vim-colorschemes"]
+	path = nvim/pack/seepel/start/vim-colorschemes
+	url = https://github.com/flazz/vim-colorschemes.git
+[submodule "nvim/pack/seepel/start/vim-gitgutter"]
+	path = nvim/pack/seepel/start/vim-gitgutter
+	url = https://github.com/airblade/vim-gitgutter.git
+[submodule "nvim/pack/seepel/start/vim-indent-guides"]
+	path = nvim/pack/seepel/start/vim-indent-guides
+	url = https://github.com/nathanaelkane/vim-indent-guides.git
+[submodule "nvim/pack/seepel/start/vim-prettier"]
+	path = nvim/pack/seepel/start/vim-prettier
+	url = https://github.com/prettier/vim-prettier
+[submodule "nvim/pack/seepel/start/vim-repeat"]
+	path = nvim/pack/seepel/start/vim-repeat
+	url = git://github.com/tpope/vim-repeat.git
+[submodule "nvim/pack/seepel/start/vim-sexp"]
+	path = nvim/pack/seepel/start/vim-sexp
+	url = git://github.com/guns/vim-sexp.git
+[submodule "nvim/pack/seepel/start/vim-sexp-mappings-for-regular-people"]
+	path = nvim/pack/seepel/start/vim-sexp-mappings-for-regular-people
+	url = git://github.com/tpope/vim-sexp-mappings-for-regular-people.git
+[submodule "nvim/pack/seepel/start/vim-sleuth"]
+	path = nvim/pack/seepel/start/vim-sleuth
+	url = https://github.com/tpope/vim-sleuth.git
+[submodule "nvim/pack/seepel/start/vim-surround"]
+	path = nvim/pack/seepel/start/vim-surround
+	url = git://github.com/tpope/vim-surround.git
+[submodule "nvim/pack/seepel/start/vim-tsx"]
+	path = nvim/pack/seepel/start/vim-tsx
+	url = https://github.com/ianks/vim-tsx.git
+[submodule "nvim/pack/seepel/start/yats.vim"]
+	path = nvim/pack/seepel/start/yats.vim
+	url = https://github.com/HerringtonDarkholme/yats.vim.git
+[submodule "nvim/pack/seepel/start/vim-fugitive"]
+	path = nvim/pack/seepel/start/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "nvim/pack/seepel/start/nerdtree-git-plugin"]
+	path = nvim/pack/seepel/start/nerdtree-git-plugin
+	url = https://github.com/Xuyuanp/nerdtree-git-plugin.git
+[submodule "nvim/pack/seepel/start/vim-airline"]
+	path = nvim/pack/seepel/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
+[submodule "nvim/pack/seepel/start/vim-airline-themes"]
+	path = nvim/pack/seepel/start/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes.git
