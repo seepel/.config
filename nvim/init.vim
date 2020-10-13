@@ -1,4 +1,5 @@
-colorscheme github
+set background=light
+colorscheme PaperColor
 set tabstop=2
 set nocompatible
 syntax on
@@ -8,11 +9,12 @@ set cursorline
 set encoding=utf-8
 set expandtab
 set lazyredraw
-set noerrorbells
+set noerrorbells visualbell t_vb=
 set vb t_vb=
 set nowrap
 set nu
 set splitright
+set backspace=indent,eol,start
 set smartcase
 set smartindent
 set shiftwidth=2
@@ -22,6 +24,15 @@ set wildmode=list:longest
 :map <space> <c-f>
 :map <backspace> <c-b>
 noremap gb :NERDTreeFind<CR>
+
+" REPL
+" Send the text of a motion to the REPL
+nmap <leader>rs  <Plug>(ReplSend)
+" Send the current line to the REPL
+nmap <leader>rss <Plug>(ReplSendLine)
+nmap <leader>rs_ <Plug>(ReplSendLine)
+" Send the selected text to the REPL
+vmap <leader>rs  <Plug>(ReplSend)
 
 " use tab to trigger completion
 inoremap <silent><expr> <TAB>                                                                           
@@ -86,3 +97,4 @@ let g:indent_guides_enable_on_vim_startup = 1
 " restart tsserver -> CocRestart
 " \f autofix \t show type
 
+let g:paredit_electric_return=0
